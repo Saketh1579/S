@@ -1,5 +1,5 @@
 # Simon-Game
 
 Just a learning part, if love to play games...
-Click here.... https://Saketh1579.github.io/Simon-Game/
+Click here.... https://saketh1579.github.io/S/
 Test your memory, till what level you are able to memorize the pattern...
